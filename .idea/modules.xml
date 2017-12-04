@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hello-c/Hello-c.iml" filepath="$PROJECT_DIR$/Hello-c/Hello-c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello-o/Hello-o.iml" filepath="$PROJECT_DIR$/Hello-o/Hello-o.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comddd/comddd.iml" filepath="$PROJECT_DIR$/comddd/comddd.iml" />
+    </modules>
+  </component>
+</project>
